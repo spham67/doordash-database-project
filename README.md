@@ -29,3 +29,7 @@ Data entities for Doordash's data model can be visualized in the following ERD:
 
 1) Run initialize.sql (This file creates all tables, relationships, and loads example seed data from the seeds folder)
 2) Run python3 queries.py (This will show a menu on cmd where directions are provided)
+
+# Files
+create.sql -> file creating PostgreSQL table structure and relationships
+queries.py -> file containing SQL queries
